@@ -1,0 +1,6 @@
+C:\Users\Mohammad\Documents\Visual Studio 2015\serial_communication123\serial_communication123\bin\Debug\serial_communication123.exe.config
+C:\Users\Mohammad\Documents\Visual Studio 2015\serial_communication123\serial_communication123\bin\Debug\serial_communication123.exe
+C:\Users\Mohammad\Documents\Visual Studio 2015\serial_communication123\serial_communication123\bin\Debug\serial_communication123.pdb
+C:\Users\Mohammad\Documents\Visual Studio 2015\serial_communication123\serial_communication123\obj\Debug\serial_communication123.csprojResolveAssemblyReference.cache
+C:\Users\Mohammad\Documents\Visual Studio 2015\serial_communication123\serial_communication123\obj\Debug\serial_communication123.exe
+C:\Users\Mohammad\Documents\Visual Studio 2015\serial_communication123\serial_communication123\obj\Debug\serial_communication123.pdb
